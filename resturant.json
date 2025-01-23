@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "مقبلات مشكل",
+      "image_url": "https://i.ibb.co/QD0X3b8/unsplash-UC0-HZd-Uit-WY.png",
+      "status": "okey",
+      "price": "24 SR"
+    },
+    {
+      "name": "كبة",
+      "image_url": "https://i.ibb.co/TTQTn2G/unsplash-UC0-HZd-Uit-WY-3.png",
+      "status": "okey",
+      "price": "13 SR",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "بروستد",
+      "description": "يقدم الدجاج البروستد مع البطاطس المقلية المدهشة وصلصة الثوم لإضافة المزيد من النكهة.",
+      "price": "24 SR",
+      "rating": "4.5",
+      "status": "okey",
+      "image_url": "https://i.ibb.co/rds8LM3/unsplash-UC0-HZd-Uit-WY-2.png"
+    },
+    {
+      "id": "4",
+      "name": "تبولة",
+      "description": "تتميز التبولة بنكهتها المنعشة والمليئة بالمكونات الصحية، وتعتبر وجبة خفيفة ومغذية في الوقت ذاته.",
+      "price": "12 SR",
+      "rating": "4.5",
+      "status": "okey",
+      "image_url": "https://i.ibb.co/HYxnJ76/unsplash-UC0-HZd-Uit-WY-1.png"
+    },
+    {
+      "id": "5",
+      "name": "شاورما دجاج",
+      "description": "شاورما دجاج محشوة في خبز طازج مع تشكيلة مميزة من الصلصات والخضار.",
+      "price": "15 SR",
+      "rating": "4.7",
+      "status": "okey",
+      "image_url": "https://i.ibb.co/ZYt8LSb/unsplash-shawarma.png"
+    },
+    {
+      "id": "6",
+      "name": "فتوش",
+      "description": "سلطة فتوش مميزة تجمع بين الخضار الطازجة وخبز البيتا المقرمش مع تتبيلة لذيذة.",
+      "price": "10 SR",
+      "rating": "4.6",
+      "status": "okey",
+      "image_url": "https://i.ibb.co/6rJYHJQ/unsplash-fattoush.png"
+    },
+    {
+      "id": "7",
+      "name": "حمص باللحمة",
+      "description": "طبق الحمص الكريمي الشهير مغطى بقطع لحم متبلة ومقلية.",
+      "price": "18 SR",
+      "rating": "4.8",
+      "status": "okey",
+      "image_url": "https://i.ibb.co/JnXqnyb/unsplash-hummus-meat.png"
+    },
+    {
+      "id": "8",
+      "name": "مناقيش زعتر",
+      "description": "مناقيش طازجة مغطاة بالزعتر وزيت الزيتون للحصول على نكهة شرقية مميزة.",
+      "price": "8 SR",
+      "rating": "4.5",
+      "status": "okey",
+      "image_url": "https://i.ibb.co/R4hzHJm/unsplash-manaeesh.png"
+    },
+    {
+      "id": "9",
+      "name": "فلافل",
+      "description": "كرات الفلافل المقرمشة المكونة من الحمص المطحون والبهارات الشرقية.",
+      "price": "10 SR",
+      "rating": "4.9",
+      "status": "okey",
+      "image_url": "https://i.ibb.co/MRrnsMx/unsplash-falafel.png"
+    },
+    {
+      "id": "10",
+      "name": "متبل باذنجان",
+      "description": "طبق متبل باذنجان بطعمه الغني والمميز والمزين بزيت الزيتون والرمان.",
+      "price": "12 SR",
+      "rating": "4.7",
+      "status": "okey",
+      "image_url": "https://i.ibb.co/QvFg2bt/unsplash-moutabal.png"
+    }
+  ]
+}
